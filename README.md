@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Varun Nair</h1>
-<h3 align="center">A passionate frontend  and mobile app developer from India</h3>
+<h3 align="center">A passionate frontend and mobile app developer from India</h3>
 <img align = "right" alt="Coding" width="400" src= "https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/varun nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun nair" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mufcvarun11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mufcvarun11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-nair-a6a1b7227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-nair-a6a1b7227/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/mufcvarun11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mufcvarun11/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mufcvarun11&show_icons=true&locale=en" alt="mufcvarun11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mufcvarun11&" alt="mufcvarun11" /></p>
+
 
 
